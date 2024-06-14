@@ -9,5 +9,5 @@
 7. The BETWEEN operator in SQL is used to filter rows based on a range of values.  It allows you to specify a range of values and retrieve rows where a particular column's value falls within that range.
 8.  JOIN is used to combine rows from two or more tables based on a related column between them. There are different types of JOIN operations:
     1. INNER JOIN: Returns only the rows that have matching values in both tables based on the specified condition.
-    2. LEFT JOIN or LEFT OUTER JOIN: Returns all rows from the left table and the matched rows from the right table. If there is no match, NULL values are returned for the columns from the right table.
-    3. RIGHT JOIN or RIGHT OUTER JOIN: Returns all rows from the right table and the matched rows from the left table. If there is no match, NULL values are returned for the columns from the left table.
+    2. LEFT JOIN or LEFT OUTER JOIN: Returns all rows from the left table and the matched rows from the right table. If there is no match NULL values are returned for the columns from the right table.
+    3. RIGHT JOIN or RIGHT OUTER JOIN: Returns all rows from the right table and the matched rows from the left table. If there is no match NULL values are returned for the columns from the left table.
