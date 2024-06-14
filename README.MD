@@ -1,7 +1,7 @@
 # Database Task 01 : MySQL Queries
 
 1. The task is about writting sql queries to CREATE,SELECT, DELETE, ALTER, INSERT, UPDATE and DROP table.
-2. Also we used few Aggregate Functions like COUNT, SUM and ROUND.
+2. Also used few Aggregate Functions like COUNT, SUM and ROUND.
 3. The CONCAT function in SQL is used to concatenate or join together two or more strings into a single string. It takes multiple string arguments and combines them into one.
 4. LIMIT Limits the number of rows returned by a query. OFFSET  Specifies how many rows to skip from the beginning of the result set. Together, they are often used for pagination, allowing you to retrieve a subset of rows from a larger result set.
 5. ASC- Accending Order and DESC for Descending Order.
